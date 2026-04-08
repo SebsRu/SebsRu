@@ -1,52 +1,71 @@
-# 🚀 Personal Portafolio | Supply Chain AI Suite Expert
+# Sebastián Rueda — Supply Chain AI Orchestrator
 
-Bienvenido a mi repositorio de portafolio profesional. Aquí presento una suite integral de soluciones avanzadas para la cadena de suministro, diseñadas con un enfoque en **IA, Análisis de Datos y Automatización**.
-
----
-
-### 🌐 [Ver Portafolio Interactivo (Web)](index.html)
-*(Nota: Si estás viendo esto en GitHub local, el archivo index.html contiene el diseño premium)*. Las instrucciones para desplegarlo están abajo.
+**7+ años** en cadena de suministro | Pharma (Novartis Colombia) & CPG (Kellanov) | Pionero en **Kinaxis Maestro** en Colombia
 
 ---
 
-## 🛠️ The Platinum Suite: 5 Módulos Críticos
+## Supply Chain AI Suite — 5 Módulos LIVE
 
-### 1. 📈 **Modulo 1: Demand Planning AI**
-*   **Herramienta:** AI Forecast Comparator & Champion Selector.
-*   **Impacto:** Reducción del sesgo de forecast mediante comparación algorítmica (Prophet vs. Otros).
+Suite integral de herramientas de inteligencia artificial para transformar la cadena de suministro: desde la planificación de demanda hasta el control ejecutivo.
 
-### 2. 🚛 **Modulo 2: Logistic & Inventory**
-*   **Herramienta:** Inventory Diagnosis & Coverage Analyzer.
-*   **Impacto:** Análisis ABC y rotación para optimizar el capital de trabajo y la frescura del inventario.
-
-### 3. 🤖 **Modulo 3: Replenishment Coach**
-*   **Herramienta:** AI Replenishment & Safety Stock Tool.
-*   **Impacto:** Cálculo dinámico de stock de seguridad basado en variabilidad de demanda y lead time.
-
-### 4. 📦 **Modulo 4: Procurement OTIF Risk Tracker**
-*   **Herramienta:** Vendor OTIF Analysis.
-*   **Impacto:** Monitoreo preventivo del cumplimiento de proveedores para asegurar el abastecimiento OTIF.
-
-### 5. 🛰️ **Modelo 5: Control Tower 360**
-*   **Herramienta:** Hub Maestro de KPI's.
-*   **Impacto:** Consolidación de todos los módulos anteriores en una vista ejecutiva para la toma de decisiones 360.
+| # | Módulo | Herramienta | Demo |
+|---|--------|-------------|------|
+| M1 | Demand Planning | AI Forecast Comparator | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://m1-demand-forecast-public-fyjvowtsbgsa6yfovy82xk.streamlit.app/) |
+| M2 | Inventory Diagnosis | Coverage & ABC Analyzer | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://m2-inventory-diagnosis-public-emthenygqlck7srnw4dejt.streamlit.app/) |
+| M3 | Replenishment Coach | Safety Stock & ROP Calculator | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://m3-replenishment-coach-public-kjds9kfms4eg3lmj9ynsvw.streamlit.app/) |
+| M4 | OTIF Risk Tracker | Vendor Performance Monitor | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://m4-otif-risk-tracker-public-icmdhwqsb4nmut7wnaof4n.streamlit.app/) |
+| M5 | Control Tower 360 | Executive Dashboard | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://m5-control-tower-360-public-jmieqpoyedjmbpfqqrh99x.streamlit.app/) |
 
 ---
 
-## 💻 Tech Stack
-*   **Backend & Análisis:** Python (Pandas, Numpy, Scikit-learn, Prophet).
-*   **Frontend Apps:** Streamlit (Interactivas y operativas).
-*   **Visualización Ejecutiva:** Dashboards e Informes Platinum.
-*   **Web Portfolio:** HTML5, CSS3 Moderno (Glassmorphism & Ultra-premium design).
+## Módulos en Detalle
+
+### M1 — AI Forecast Comparator
+Compara 4 modelos de forecasting (Prophet, XGBoost, SARIMA, MA7) en tiempo real. Selecciona el modelo campeón por SKU basándose en MAPE, sesgo y precisión financiera.
+
+**Repos:** [Código](https://github.com/SebsRu/m1-demand-forecast) · [Demo](https://github.com/SebsRu/m1-demand-forecast-public)
 
 ---
 
-## 🚀 ¿Cómo usar este repo?
-Para desplegar el portafolio web en GitHub Pages:
-1. Sube este repositorio a GitHub.
-2. Ve a **Settings** > **Pages**.
-3. Selecciona la rama `main` y la carpeta `/root`.
-4. ¡Tu portafolio estará vivo en `tu-usuario.github.io`!
+### M2 — Inventory Diagnosis & Coverage Analyzer
+Diagnóstico completo de inventario con clasificación ABC, días de cobertura, costo de oportunidad y capital en exceso. Exporta reportes PDF/Excel ejecutivos.
+
+**Repos:** [Código](https://github.com/SebsRu/m2-inventory-diagnosis) · [Demo](https://github.com/SebsRu/m2-inventory-diagnosis-public)
 
 ---
-**Crafted for Professional Excellence | 2026**
+
+### M3 — Replenishment Coach
+Calcula ROP (Reorder Point), Stock de Seguridad y SOQ (Suggested Order Quantity). Simulación de 90 días con visibilidad de riesgo de stockout por SKU.
+
+**Repos:** [Código](https://github.com/SebsRu/m3-replenishment-coach) · [Demo](https://github.com/SebsRu/m3-replenishment-coach-public)
+
+---
+
+### M4 — OTIF Risk Tracker
+Monitoreo de cumplimiento de proveedores con scoring de riesgo, exposición financiera cuantificada e intervenciones estratégicas de IA.
+
+**Repos:** [Código](https://github.com/SebsRu/m4-otif-risk-tracker) · [Demo](https://github.com/SebsRu/m4-otif-risk-tracker-public)
+
+---
+
+### M5 — Control Tower 360
+Dashboard ejecutivo que consolida M1–M4 en una sola vista estratégica. Modelo financiero dual (Act Now vs. Do Nothing), índice de resiliencia global y QBR en un click.
+
+**Repos:** [Código](https://github.com/SebsRu/m5-control-tower-360) · [Demo](https://github.com/SebsRu/m5-control-tower-360-public)
+
+---
+
+## Tech Stack
+
+**AI/ML:** Prophet · XGBoost · SARIMA · Scikit-learn  
+**Data:** Python · Pandas · NumPy  
+**Visualización:** Plotly · Streamlit  
+**Reportes:** FPDF2 · OpenPyXL · XlsxWriter  
+**Supply Chain:** Kinaxis Maestro · SAP · Advanced Planning
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiaan-rueda)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SebsRu)
