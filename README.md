@@ -69,3 +69,43 @@ Dashboard ejecutivo que consolida M1–M4 en una sola vista estratégica. Modelo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiaan-rueda)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SebsRu)
+
+---
+
+## Flujo de la Suite
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    SUPPLY CHAIN AI SUITE                        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  📈 M1 — AI Forecast Comparator                                 │
+│  Prophet · XGBoost · SARIMA · MA7                               │
+│  Output: Modelo campeón + forecast por SKU                      │
+│                          │                                      │
+│                          ▼                                      │
+│  📦 M2 — Inventory Diagnosis & Coverage Analyzer                │
+│  ABC · Días de Cobertura · Capital en Exceso                    │
+│  Output: Diagnóstico de inventario + oportunidades              │
+│                          │                                      │
+│                          ▼                                      │
+│  🔄 M3 — Replenishment Coach                                    │
+│  ROP · Safety Stock · SOQ · Simulación 90 días                  │
+│  Output: Plan de reabastecimiento priorizado                    │
+│                          │                                      │
+│                          ▼                                      │
+│  🚚 M4 — OTIF Risk Tracker                                      │
+│  Vendor Scoring · Exposición Financiera · Alertas               │
+│  Output: Scorecard de proveedores + acciones estratégicas       │
+│                          │                                      │
+│                          ▼                                      │
+│  🛰️  M5 — Control Tower 360                                     │
+│  KPIs Consolidados · Resiliencia · QBR · Act Now vs Do Nothing  │
+│  Output: Decisión ejecutiva + reporte de directorio             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+*Crafted for Professional Excellence | 2026*
