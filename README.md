@@ -1,4 +1,4 @@
-# supply Chain AI
+# Supply Chain Tools
 
 **7+ años** en cadena de suministro | Pharma (Novartis Colombia) & CPG (Kellanov) | Pionero en **Kinaxis Maestro** en Colombia
 
